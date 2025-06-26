@@ -1,2 +1,2 @@
-# protojoylimon
-Prototype deployment for Project Joylimon
+# joylimon_deployproto
+Deployment prototyping space for Project Joylimon
